@@ -13,3 +13,5 @@ for n in range(len(x)):
     d = d + y[n] 
   
 print("c equals {}, while d equals {}. {}.".format(c,d,a))
+
+print('the test works???')
